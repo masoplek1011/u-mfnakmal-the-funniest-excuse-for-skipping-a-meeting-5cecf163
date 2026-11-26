@@ -4,12 +4,14 @@
 [![rank](https://make.fun/badge/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163/masoplek1011/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163/rank.svg)](https://make.fun/bounty/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163)
 [![reward](https://make.fun/badge/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163/masoplek1011/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163/reward.svg)](https://make.fun/bounty/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163)
 
-One razor-sharp line that gets you out of a pointless meeting: it says
-the skip up front, then turns the meeting's own jargon against it — a
-"hard stop" that the meeting itself already hit, the moment someone
-asked the question ("why are we here?") that kills every pointless
-meeting. No wifi, no cat, no dentist: just the meeting admitting
-defeat before you even join.
+One razor-sharp line that gets you out of a pointless meeting: it
+turns the meeting's own jargon against it — a "hard stop" that the
+meeting itself already hit, the moment someone asked the question
+("why are we here?") that kills every pointless meeting. The skip
+is stated plainly mid-line, and the twist lands last: the meeting
+skipped itself first, so the speaker is only following its lead.
+No wifi, no cat, no dentist: just the meeting admitting defeat
+before you even join.
 
 Built for [The Funniest Excuse for Skipping a Meeting](https://make.fun/bounty/u-mfnakmal-the-funniest-excuse-for-skipping-a-meeting-5cecf163)
 on [make.fun](https://make.fun).
